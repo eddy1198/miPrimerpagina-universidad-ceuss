@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+ }
+ body {
+     background-color:#000
+ }
+
+ .menuElement {
+     font-size: 28px;
+     margin-left: 30px;
+ }
+
+ #sections{
+     background-color: #444
+ }
+
+ .thumbnail{
+     background-color: #2aabd2
+ }
+ 
+ #sections h3 {
+     color: #fff
+ }
+
+ #shareList {
+     list-style-type: none;
+ }
+ 
+ #shareList li {
+     display: inline;
+ }
+ 
+ #contactList {
+     list-style-type: none;
+ }
+ #contactList li{
+     display: inline;
+ }
